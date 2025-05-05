@@ -1,242 +1,12 @@
 [
     {
-        "DateTime": "2025-05-03T22:00:00Z",
-        "PriceInEUR": 0.06014,
-        "PriceInEURIncludingVAT": 0.07517499999999999,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.6569087930092845,
-        "PriceInLocalCurrencyIncludingVAT": 0.8211359912616055,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-03T23:00:00Z",
-        "PriceInEUR": 0.045149999999999996,
-        "PriceInEURIncludingVAT": 0.056437499999999995,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4931731294374658,
-        "PriceInLocalCurrencyIncludingVAT": 0.6164664117968323,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T00:00:00Z",
-        "PriceInEUR": 0.03151,
-        "PriceInEURIncludingVAT": 0.039387500000000006,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.3441835062807209,
-        "PriceInLocalCurrencyIncludingVAT": 0.4302293828509012,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T01:00:00Z",
-        "PriceInEUR": 0.02043,
-        "PriceInEURIncludingVAT": 0.0255375,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.22315674494811577,
-        "PriceInLocalCurrencyIncludingVAT": 0.2789459311851447,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T02:00:00Z",
-        "PriceInEUR": 0.020050000000000002,
-        "PriceInEURIncludingVAT": 0.0250625,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.21900600764609504,
-        "PriceInLocalCurrencyIncludingVAT": 0.2737575095576188,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T03:00:00Z",
-        "PriceInEUR": 0.015609999999999999,
-        "PriceInEURIncludingVAT": 0.0195125,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.17050791916985253,
-        "PriceInLocalCurrencyIncludingVAT": 0.21313489896231563,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T04:00:00Z",
-        "PriceInEUR": 0.01365,
-        "PriceInEURIncludingVAT": 0.0170625,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.1490988530857455,
-        "PriceInLocalCurrencyIncludingVAT": 0.18637356635718186,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T05:00:00Z",
-        "PriceInEUR": 0.00783,
-        "PriceInEURIncludingVAT": 0.009787500000000001,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.08552703440742764,
-        "PriceInLocalCurrencyIncludingVAT": 0.10690879300928455,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T06:00:00Z",
-        "PriceInEUR": 0.00292,
-        "PriceInEURIncludingVAT": 0.0036499999999999996,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.03189513926815947,
-        "PriceInLocalCurrencyIncludingVAT": 0.03986892408519934,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T07:00:00Z",
-        "PriceInEUR": 1e-05,
-        "PriceInEURIncludingVAT": 1.25e-05,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.00010922992900054615,
-        "PriceInLocalCurrencyIncludingVAT": 0.00013653741125068268,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T08:00:00Z",
-        "PriceInEUR": -1e-05,
-        "PriceInEURIncludingVAT": -1e-05,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": -0.00010922992900054615,
-        "PriceInLocalCurrencyIncludingVAT": -0.00010922992900054615,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T09:00:00Z",
-        "PriceInEUR": -2e-05,
-        "PriceInEURIncludingVAT": -2e-05,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": -0.0002184598580010923,
-        "PriceInLocalCurrencyIncludingVAT": -0.0002184598580010923,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T10:00:00Z",
-        "PriceInEUR": -0.00198,
-        "PriceInEURIncludingVAT": -0.00198,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": -0.021627525942108136,
-        "PriceInLocalCurrencyIncludingVAT": -0.021627525942108136,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T11:00:00Z",
-        "PriceInEUR": -0.00478,
-        "PriceInEURIncludingVAT": -0.00478,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": -0.05221190606226106,
-        "PriceInLocalCurrencyIncludingVAT": -0.05221190606226106,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T12:00:00Z",
-        "PriceInEUR": -0.00151,
-        "PriceInEURIncludingVAT": -0.00151,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": -0.01649371927908247,
-        "PriceInLocalCurrencyIncludingVAT": -0.01649371927908247,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T13:00:00Z",
-        "PriceInEUR": 2.9999999999999997e-05,
-        "PriceInEURIncludingVAT": 3.75e-05,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.0003276897870016384,
-        "PriceInLocalCurrencyIncludingVAT": 0.000409612233752048,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T14:00:00Z",
-        "PriceInEUR": 0.012060000000000001,
-        "PriceInEURIncludingVAT": 0.015075000000000002,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.13173129437465866,
-        "PriceInLocalCurrencyIncludingVAT": 0.16466411796832334,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T15:00:00Z",
-        "PriceInEUR": 0.061130000000000004,
-        "PriceInEURIncludingVAT": 0.07641250000000001,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.6677225559803386,
-        "PriceInLocalCurrencyIncludingVAT": 0.8346531949754233,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T16:00:00Z",
-        "PriceInEUR": 0.06531,
-        "PriceInEURIncludingVAT": 0.0816375,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.7133806663025669,
-        "PriceInLocalCurrencyIncludingVAT": 0.8917258328782086,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T17:00:00Z",
-        "PriceInEUR": 0.07390000000000001,
-        "PriceInEURIncludingVAT": 0.09237500000000001,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.807209175314036,
-        "PriceInLocalCurrencyIncludingVAT": 1.0090114691425451,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T18:00:00Z",
-        "PriceInEUR": 0.09572,
-        "PriceInEURIncludingVAT": 0.11965,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 1.0455488803932276,
-        "PriceInLocalCurrencyIncludingVAT": 1.3069361004915347,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T19:00:00Z",
-        "PriceInEUR": 0.09294,
-        "PriceInEURIncludingVAT": 0.116175,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 1.0151829601310758,
-        "PriceInLocalCurrencyIncludingVAT": 1.2689787001638448,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
-        "DateTime": "2025-05-04T20:00:00Z",
-        "PriceInEUR": 0.07327,
-        "PriceInEURIncludingVAT": 0.0915875,
-        "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.8003276897870016,
-        "PriceInLocalCurrencyIncludingVAT": 1.000409612233752,
-        "ExchangeRate": 0.09155,
-        "Currency": "SEK"
-    },
-    {
         "DateTime": "2025-05-04T22:00:00Z",
         "PriceInEUR": 0.06684,
         "PriceInEURIncludingVAT": 0.08355,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.7300928454396504,
-        "PriceInLocalCurrencyIncludingVAT": 0.912616056799563,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.729773992793973,
+        "PriceInLocalCurrencyIncludingVAT": 0.9122174909924664,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -244,9 +14,9 @@
         "PriceInEUR": 0.04511,
         "PriceInEURIncludingVAT": 0.05638749999999999,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4927362097214636,
-        "PriceInLocalCurrencyIncludingVAT": 0.6159202621518295,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.4925210175783382,
+        "PriceInLocalCurrencyIncludingVAT": 0.6156512719729227,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -254,9 +24,9 @@
         "PriceInEUR": 0.04283,
         "PriceInEURIncludingVAT": 0.0535375,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4678317859093391,
-        "PriceInLocalCurrencyIncludingVAT": 0.584789732386674,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.4676274702478436,
+        "PriceInLocalCurrencyIncludingVAT": 0.5845343378098046,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -264,9 +34,9 @@
         "PriceInEUR": 0.07301,
         "PriceInEURIncludingVAT": 0.09126250000000001,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.7974877116329875,
-        "PriceInLocalCurrencyIncludingVAT": 0.9968596395412344,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.7971394257014958,
+        "PriceInLocalCurrencyIncludingVAT": 0.9964242821268698,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -274,9 +44,9 @@
         "PriceInEUR": 0.06493,
         "PriceInEURIncludingVAT": 0.0811625,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.7092299290005462,
-        "PriceInLocalCurrencyIncludingVAT": 0.8865374112506826,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.7089201877934272,
+        "PriceInLocalCurrencyIncludingVAT": 0.886150234741784,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -284,9 +54,9 @@
         "PriceInEUR": 0.08553,
         "PriceInEURIncludingVAT": 0.1069125,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.9342435827416711,
-        "PriceInLocalCurrencyIncludingVAT": 1.167804478427089,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.9338355715689485,
+        "PriceInLocalCurrencyIncludingVAT": 1.1672944644611856,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -294,9 +64,9 @@
         "PriceInEUR": 0.10762999999999999,
         "PriceInEURIncludingVAT": 0.13453749999999998,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 1.175641725832878,
-        "PriceInLocalCurrencyIncludingVAT": 1.4695521572910974,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 1.175128289114532,
+        "PriceInLocalCurrencyIncludingVAT": 1.4689103613931649,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -304,9 +74,9 @@
         "PriceInEUR": 0.11964,
         "PriceInEURIncludingVAT": 0.14955,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 1.306826870562534,
-        "PriceInLocalCurrencyIncludingVAT": 1.6335335882031674,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 1.3062561415001637,
+        "PriceInLocalCurrencyIncludingVAT": 1.6328201768752044,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -314,9 +84,9 @@
         "PriceInEUR": 0.09462000000000001,
         "PriceInEURIncludingVAT": 0.11827500000000002,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 1.0335335882031678,
-        "PriceInLocalCurrencyIncludingVAT": 1.2919169852539596,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 1.0330822142155258,
+        "PriceInLocalCurrencyIncludingVAT": 1.2913527677694072,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -324,9 +94,9 @@
         "PriceInEUR": 0.05788,
         "PriceInEURIncludingVAT": 0.07235,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.632222829055161,
-        "PriceInLocalCurrencyIncludingVAT": 0.7902785363189513,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.6319467190741347,
+        "PriceInLocalCurrencyIncludingVAT": 0.7899333988426683,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -334,9 +104,9 @@
         "PriceInEUR": 0.04690999999999999,
         "PriceInEURIncludingVAT": 0.058637499999999995,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.5123975969415618,
-        "PriceInLocalCurrencyIncludingVAT": 0.6404969961769524,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.5121738181024128,
+        "PriceInLocalCurrencyIncludingVAT": 0.6402172726280161,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -344,9 +114,9 @@
         "PriceInEUR": 0.04212,
         "PriceInEURIncludingVAT": 0.052649999999999995,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4600764609503003,
-        "PriceInLocalCurrencyIncludingVAT": 0.5750955761878754,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.4598755322633475,
+        "PriceInLocalCurrencyIncludingVAT": 0.5748444153291843,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -354,9 +124,9 @@
         "PriceInEUR": 0.03778,
         "PriceInEURIncludingVAT": 0.047225,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.41267067176406336,
-        "PriceInLocalCurrencyIncludingVAT": 0.5158383397050792,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.41249044655530076,
+        "PriceInLocalCurrencyIncludingVAT": 0.515613058194126,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -364,9 +134,9 @@
         "PriceInEUR": 0.038079999999999996,
         "PriceInEURIncludingVAT": 0.047599999999999996,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.41594756963407964,
-        "PriceInLocalCurrencyIncludingVAT": 0.5199344620425996,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.4157659133093132,
+        "PriceInLocalCurrencyIncludingVAT": 0.5197073916366415,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -374,9 +144,9 @@
         "PriceInEUR": 0.03908,
         "PriceInEURIncludingVAT": 0.04885,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4268705625341343,
-        "PriceInLocalCurrencyIncludingVAT": 0.5335882031676679,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.426684135822688,
+        "PriceInLocalCurrencyIncludingVAT": 0.5333551697783601,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -384,9 +154,9 @@
         "PriceInEUR": 0.041229999999999996,
         "PriceInEURIncludingVAT": 0.05153749999999999,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4503549972692517,
-        "PriceInLocalCurrencyIncludingVAT": 0.5629437465865647,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.45015831422644387,
+        "PriceInLocalCurrencyIncludingVAT": 0.5626978927830548,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -394,9 +164,9 @@
         "PriceInEUR": 0.04313,
         "PriceInEURIncludingVAT": 0.0539125,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.47110868377935555,
-        "PriceInLocalCurrencyIncludingVAT": 0.5888858547241944,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.4709029370018561,
+        "PriceInLocalCurrencyIncludingVAT": 0.5886286712523201,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -404,9 +174,9 @@
         "PriceInEUR": 0.04462,
         "PriceInEURIncludingVAT": 0.055775,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4873839432004369,
-        "PriceInLocalCurrencyIncludingVAT": 0.6092299290005461,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.48717108854678454,
+        "PriceInLocalCurrencyIncludingVAT": 0.6089638606834806,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -414,9 +184,9 @@
         "PriceInEUR": 0.06011,
         "PriceInEURIncludingVAT": 0.0751375,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.6565811032222828,
-        "PriceInLocalCurrencyIncludingVAT": 0.8207263790278535,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.6562943552789605,
+        "PriceInLocalCurrencyIncludingVAT": 0.8203679440987006,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -424,9 +194,9 @@
         "PriceInEUR": 0.07993,
         "PriceInEURIncludingVAT": 0.0999125,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.8730748225013654,
-        "PriceInLocalCurrencyIncludingVAT": 1.0913435281267068,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.8726935254940495,
+        "PriceInLocalCurrencyIncludingVAT": 1.0908669068675618,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -434,9 +204,9 @@
         "PriceInEUR": 0.08466,
         "PriceInEURIncludingVAT": 0.105825,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.9247405789186236,
-        "PriceInLocalCurrencyIncludingVAT": 1.1559257236482796,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.9243367179823124,
+        "PriceInLocalCurrencyIncludingVAT": 1.1554208974778906,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -444,9 +214,9 @@
         "PriceInEUR": 0.07557,
         "PriceInEURIncludingVAT": 0.0944625,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.8254505734571271,
-        "PriceInLocalCurrencyIncludingVAT": 1.0318132168214091,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.8250900753357353,
+        "PriceInLocalCurrencyIncludingVAT": 1.0313625941696691,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -454,9 +224,9 @@
         "PriceInEUR": 0.04935,
         "PriceInEURIncludingVAT": 0.0616875,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.5390496996176952,
-        "PriceInLocalCurrencyIncludingVAT": 0.673812124522119,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.5388142810350475,
+        "PriceInLocalCurrencyIncludingVAT": 0.6735178512938094,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     },
     {
@@ -464,9 +234,249 @@
         "PriceInEUR": 0.04441,
         "PriceInEURIncludingVAT": 0.0555125,
         "VATRate": 0.25,
-        "PriceInLocalCurrency": 0.4850901146914254,
-        "PriceInLocalCurrencyIncludingVAT": 0.6063626433642818,
-        "ExchangeRate": 0.09155,
+        "PriceInLocalCurrency": 0.4848782618189758,
+        "PriceInLocalCurrencyIncludingVAT": 0.6060978272737197,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-05T22:00:00Z",
+        "PriceInEUR": 0.04936,
+        "PriceInEURIncludingVAT": 0.061700000000000005,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5389234632601813,
+        "PriceInLocalCurrencyIncludingVAT": 0.6736543290752266,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-05T23:00:00Z",
+        "PriceInEUR": 0.05026,
+        "PriceInEURIncludingVAT": 0.06282499999999999,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5487498635222186,
+        "PriceInLocalCurrencyIncludingVAT": 0.6859373294027731,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T00:00:00Z",
+        "PriceInEUR": 0.0499,
+        "PriceInEURIncludingVAT": 0.062375,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5448193034174036,
+        "PriceInLocalCurrencyIncludingVAT": 0.6810241292717545,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T01:00:00Z",
+        "PriceInEUR": 0.04954,
+        "PriceInEURIncludingVAT": 0.061925,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5408887433125887,
+        "PriceInLocalCurrencyIncludingVAT": 0.6761109291407359,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T02:00:00Z",
+        "PriceInEUR": 0.05156,
+        "PriceInEURIncludingVAT": 0.06445000000000001,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5629435527896058,
+        "PriceInLocalCurrencyIncludingVAT": 0.7036794409870074,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T03:00:00Z",
+        "PriceInEUR": 0.0555,
+        "PriceInEURIncludingVAT": 0.069375,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.6059613494923026,
+        "PriceInLocalCurrencyIncludingVAT": 0.7574516868653783,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T04:00:00Z",
+        "PriceInEUR": 0.0852,
+        "PriceInEURIncludingVAT": 0.1065,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.9302325581395348,
+        "PriceInLocalCurrencyIncludingVAT": 1.1627906976744184,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T05:00:00Z",
+        "PriceInEUR": 0.10361,
+        "PriceInEURIncludingVAT": 0.1295125,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.1312370346107652,
+        "PriceInLocalCurrencyIncludingVAT": 1.4140462932634568,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T06:00:00Z",
+        "PriceInEUR": 0.08579,
+        "PriceInEURIncludingVAT": 0.10723750000000001,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.936674309422426,
+        "PriceInLocalCurrencyIncludingVAT": 1.1708428867780327,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T07:00:00Z",
+        "PriceInEUR": 0.06831,
+        "PriceInEURIncludingVAT": 0.08538749999999999,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.745823779888634,
+        "PriceInLocalCurrencyIncludingVAT": 0.9322797248607925,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T08:00:00Z",
+        "PriceInEUR": 0.05343,
+        "PriceInEURIncludingVAT": 0.0667875,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5833606288896167,
+        "PriceInLocalCurrencyIncludingVAT": 0.7292007861120209,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T09:00:00Z",
+        "PriceInEUR": 0.046450000000000005,
+        "PriceInEURIncludingVAT": 0.0580625,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5071514357462605,
+        "PriceInLocalCurrencyIncludingVAT": 0.6339392946828256,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T10:00:00Z",
+        "PriceInEUR": 0.04026,
+        "PriceInEURIncludingVAT": 0.050324999999999995,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.4395676383884703,
+        "PriceInLocalCurrencyIncludingVAT": 0.5494595479855878,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T11:00:00Z",
+        "PriceInEUR": 0.03582,
+        "PriceInEURIncludingVAT": 0.044774999999999995,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.3910907304290861,
+        "PriceInLocalCurrencyIncludingVAT": 0.4888634130363576,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T12:00:00Z",
+        "PriceInEUR": 0.04267,
+        "PriceInEURIncludingVAT": 0.053337499999999996,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.46588055464570366,
+        "PriceInLocalCurrencyIncludingVAT": 0.5823506933071295,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T13:00:00Z",
+        "PriceInEUR": 0.04693,
+        "PriceInEURIncludingVAT": 0.0586625,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5123921825526804,
+        "PriceInLocalCurrencyIncludingVAT": 0.6404902281908504,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T14:00:00Z",
+        "PriceInEUR": 0.05446,
+        "PriceInEURIncludingVAT": 0.068075,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.5946063980783928,
+        "PriceInLocalCurrencyIncludingVAT": 0.7432579975979909,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T15:00:00Z",
+        "PriceInEUR": 0.08791,
+        "PriceInEURIncludingVAT": 0.1098875,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 0.9598209411507806,
+        "PriceInLocalCurrencyIncludingVAT": 1.1997761764384758,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T16:00:00Z",
+        "PriceInEUR": 0.10432999999999999,
+        "PriceInEURIncludingVAT": 0.1304125,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.1390981548203951,
+        "PriceInLocalCurrencyIncludingVAT": 1.4238726935254937,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T17:00:00Z",
+        "PriceInEUR": 0.13082,
+        "PriceInEURIncludingVAT": 0.16352499999999998,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.4283218691996942,
+        "PriceInLocalCurrencyIncludingVAT": 1.7854023364996174,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T18:00:00Z",
+        "PriceInEUR": 0.15716,
+        "PriceInEURIncludingVAT": 0.19644999999999999,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.7159078502019869,
+        "PriceInLocalCurrencyIncludingVAT": 2.1448848127524838,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T19:00:00Z",
+        "PriceInEUR": 0.13329,
+        "PriceInEURIncludingVAT": 0.1666125,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.45528987880773,
+        "PriceInLocalCurrencyIncludingVAT": 1.8191123485096625,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T20:00:00Z",
+        "PriceInEUR": 0.11651,
+        "PriceInEURIncludingVAT": 0.1456375,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.2720821050333004,
+        "PriceInLocalCurrencyIncludingVAT": 1.5901026312916258,
+        "ExchangeRate": 0.09159,
+        "Currency": "SEK"
+    },
+    {
+        "DateTime": "2025-05-06T21:00:00Z",
+        "PriceInEUR": 0.10089000000000001,
+        "PriceInEURIncludingVAT": 0.12611250000000002,
+        "VATRate": 0.25,
+        "PriceInLocalCurrency": 1.1015394693743858,
+        "PriceInLocalCurrencyIncludingVAT": 1.3769243367179824,
+        "ExchangeRate": 0.09159,
         "Currency": "SEK"
     }
 ]
