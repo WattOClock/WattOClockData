@@ -1,735 +1,5 @@
 [
     {
-        "DateTime": "2026-06-20T22:00:00Z",
-        "PriceInEUR": 0.0,
-        "PriceInEURIncludingVAT": 0.0,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0,
-        "PriceInLocalCurrencyIncludingVAT": 0.0,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-20T23:00:00Z",
-        "PriceInEUR": -1e-05,
-        "PriceInEURIncludingVAT": -1e-05,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": -1e-05,
-        "PriceInLocalCurrencyIncludingVAT": -1e-05,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T00:00:00Z",
-        "PriceInEUR": -2e-05,
-        "PriceInEURIncludingVAT": -2e-05,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": -2e-05,
-        "PriceInLocalCurrencyIncludingVAT": -2e-05,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T01:00:00Z",
-        "PriceInEUR": -1e-05,
-        "PriceInEURIncludingVAT": -1e-05,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": -1e-05,
-        "PriceInLocalCurrencyIncludingVAT": -1e-05,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T02:00:00Z",
-        "PriceInEUR": -2e-05,
-        "PriceInEURIncludingVAT": -2e-05,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": -2e-05,
-        "PriceInLocalCurrencyIncludingVAT": -2e-05,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T03:00:00Z",
-        "PriceInEUR": -1e-05,
-        "PriceInEURIncludingVAT": -1e-05,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": -1e-05,
-        "PriceInLocalCurrencyIncludingVAT": -1e-05,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T04:00:00Z",
-        "PriceInEUR": 0.0,
-        "PriceInEURIncludingVAT": 0.0,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0,
-        "PriceInLocalCurrencyIncludingVAT": 0.0,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T05:00:00Z",
-        "PriceInEUR": 7.000000000000001e-05,
-        "PriceInEURIncludingVAT": 8.785000000000001e-05,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 7.000000000000001e-05,
-        "PriceInLocalCurrencyIncludingVAT": 8.785000000000001e-05,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T06:00:00Z",
-        "PriceInEUR": 0.00017999999999999998,
-        "PriceInEURIncludingVAT": 0.00022589999999999996,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00017999999999999998,
-        "PriceInLocalCurrencyIncludingVAT": 0.00022589999999999996,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T07:00:00Z",
-        "PriceInEUR": 0.0015,
-        "PriceInEURIncludingVAT": 0.0018824999999999998,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0015,
-        "PriceInLocalCurrencyIncludingVAT": 0.0018824999999999998,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T08:00:00Z",
-        "PriceInEUR": 0.00198,
-        "PriceInEURIncludingVAT": 0.0024849,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00198,
-        "PriceInLocalCurrencyIncludingVAT": 0.0024849,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T09:00:00Z",
-        "PriceInEUR": 0.00199,
-        "PriceInEURIncludingVAT": 0.00249745,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00199,
-        "PriceInLocalCurrencyIncludingVAT": 0.00249745,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T10:00:00Z",
-        "PriceInEUR": 0.002,
-        "PriceInEURIncludingVAT": 0.0025099999999999996,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.002,
-        "PriceInLocalCurrencyIncludingVAT": 0.0025099999999999996,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T11:00:00Z",
-        "PriceInEUR": 0.00204,
-        "PriceInEURIncludingVAT": 0.0025602,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00204,
-        "PriceInLocalCurrencyIncludingVAT": 0.0025602,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T12:00:00Z",
-        "PriceInEUR": 0.00304,
-        "PriceInEURIncludingVAT": 0.0038152,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00304,
-        "PriceInLocalCurrencyIncludingVAT": 0.0038152,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T13:00:00Z",
-        "PriceInEUR": 0.00377,
-        "PriceInEURIncludingVAT": 0.00473135,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00377,
-        "PriceInLocalCurrencyIncludingVAT": 0.00473135,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T14:00:00Z",
-        "PriceInEUR": 0.004,
-        "PriceInEURIncludingVAT": 0.005019999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.004,
-        "PriceInLocalCurrencyIncludingVAT": 0.005019999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T15:00:00Z",
-        "PriceInEUR": 0.00378,
-        "PriceInEURIncludingVAT": 0.0047439,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00378,
-        "PriceInLocalCurrencyIncludingVAT": 0.0047439,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T16:00:00Z",
-        "PriceInEUR": 0.0044800000000000005,
-        "PriceInEURIncludingVAT": 0.0056224000000000005,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0044800000000000005,
-        "PriceInLocalCurrencyIncludingVAT": 0.0056224000000000005,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T17:00:00Z",
-        "PriceInEUR": 0.005,
-        "PriceInEURIncludingVAT": 0.006274999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.005,
-        "PriceInLocalCurrencyIncludingVAT": 0.006274999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T18:00:00Z",
-        "PriceInEUR": 0.00555,
-        "PriceInEURIncludingVAT": 0.00696525,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00555,
-        "PriceInLocalCurrencyIncludingVAT": 0.00696525,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T19:00:00Z",
-        "PriceInEUR": 0.00515,
-        "PriceInEURIncludingVAT": 0.006463249999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00515,
-        "PriceInLocalCurrencyIncludingVAT": 0.006463249999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T20:00:00Z",
-        "PriceInEUR": 0.0058200000000000005,
-        "PriceInEURIncludingVAT": 0.0073041,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0058200000000000005,
-        "PriceInLocalCurrencyIncludingVAT": 0.0073041,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T21:00:00Z",
-        "PriceInEUR": 0.00545,
-        "PriceInEURIncludingVAT": 0.0068397499999999995,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00545,
-        "PriceInLocalCurrencyIncludingVAT": 0.0068397499999999995,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T22:00:00Z",
-        "PriceInEUR": 0.0036,
-        "PriceInEURIncludingVAT": 0.0045179999999999994,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0036,
-        "PriceInLocalCurrencyIncludingVAT": 0.0045179999999999994,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-21T23:00:00Z",
-        "PriceInEUR": 0.00401,
-        "PriceInEURIncludingVAT": 0.005032549999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00401,
-        "PriceInLocalCurrencyIncludingVAT": 0.005032549999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T00:00:00Z",
-        "PriceInEUR": 0.0016699999999999998,
-        "PriceInEURIncludingVAT": 0.00209585,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0016699999999999998,
-        "PriceInLocalCurrencyIncludingVAT": 0.00209585,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T01:00:00Z",
-        "PriceInEUR": 0.00051,
-        "PriceInEURIncludingVAT": 0.00064005,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00051,
-        "PriceInLocalCurrencyIncludingVAT": 0.00064005,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T02:00:00Z",
-        "PriceInEUR": 0.00054,
-        "PriceInEURIncludingVAT": 0.0006776999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00054,
-        "PriceInLocalCurrencyIncludingVAT": 0.0006776999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T03:00:00Z",
-        "PriceInEUR": 0.00078,
-        "PriceInEURIncludingVAT": 0.0009789,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00078,
-        "PriceInLocalCurrencyIncludingVAT": 0.0009789,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T04:00:00Z",
-        "PriceInEUR": 0.00073,
-        "PriceInEURIncludingVAT": 0.0009161499999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00073,
-        "PriceInLocalCurrencyIncludingVAT": 0.0009161499999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T05:00:00Z",
-        "PriceInEUR": 0.0007199999999999999,
-        "PriceInEURIncludingVAT": 0.0009035999999999998,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0007199999999999999,
-        "PriceInLocalCurrencyIncludingVAT": 0.0009035999999999998,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T06:00:00Z",
-        "PriceInEUR": 0.00073,
-        "PriceInEURIncludingVAT": 0.0009161499999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00073,
-        "PriceInLocalCurrencyIncludingVAT": 0.0009161499999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T07:00:00Z",
-        "PriceInEUR": 0.0007199999999999999,
-        "PriceInEURIncludingVAT": 0.0009035999999999998,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0007199999999999999,
-        "PriceInLocalCurrencyIncludingVAT": 0.0009035999999999998,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T08:00:00Z",
-        "PriceInEUR": 0.00066,
-        "PriceInEURIncludingVAT": 0.0008282999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00066,
-        "PriceInLocalCurrencyIncludingVAT": 0.0008282999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T09:00:00Z",
-        "PriceInEUR": 0.00055,
-        "PriceInEURIncludingVAT": 0.00069025,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00055,
-        "PriceInLocalCurrencyIncludingVAT": 0.00069025,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T10:00:00Z",
-        "PriceInEUR": 0.00054,
-        "PriceInEURIncludingVAT": 0.0006776999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00054,
-        "PriceInLocalCurrencyIncludingVAT": 0.0006776999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T11:00:00Z",
-        "PriceInEUR": 0.00046,
-        "PriceInEURIncludingVAT": 0.0005773,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00046,
-        "PriceInLocalCurrencyIncludingVAT": 0.0005773,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T12:00:00Z",
-        "PriceInEUR": 0.00047999999999999996,
-        "PriceInEURIncludingVAT": 0.0006023999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00047999999999999996,
-        "PriceInLocalCurrencyIncludingVAT": 0.0006023999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T13:00:00Z",
-        "PriceInEUR": 0.00054,
-        "PriceInEURIncludingVAT": 0.0006776999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00054,
-        "PriceInLocalCurrencyIncludingVAT": 0.0006776999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T14:00:00Z",
-        "PriceInEUR": 0.00055,
-        "PriceInEURIncludingVAT": 0.00069025,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00055,
-        "PriceInLocalCurrencyIncludingVAT": 0.00069025,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T15:00:00Z",
-        "PriceInEUR": 0.00063,
-        "PriceInEURIncludingVAT": 0.00079065,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00063,
-        "PriceInLocalCurrencyIncludingVAT": 0.00079065,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T16:00:00Z",
-        "PriceInEUR": 0.00054,
-        "PriceInEURIncludingVAT": 0.0006776999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00054,
-        "PriceInLocalCurrencyIncludingVAT": 0.0006776999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T17:00:00Z",
-        "PriceInEUR": 0.0019199999999999998,
-        "PriceInEURIncludingVAT": 0.0024095999999999996,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0019199999999999998,
-        "PriceInLocalCurrencyIncludingVAT": 0.0024095999999999996,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T18:00:00Z",
-        "PriceInEUR": 0.00352,
-        "PriceInEURIncludingVAT": 0.0044176,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00352,
-        "PriceInLocalCurrencyIncludingVAT": 0.0044176,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T19:00:00Z",
-        "PriceInEUR": 0.00405,
-        "PriceInEURIncludingVAT": 0.00508275,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00405,
-        "PriceInLocalCurrencyIncludingVAT": 0.00508275,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T20:00:00Z",
-        "PriceInEUR": 0.00381,
-        "PriceInEURIncludingVAT": 0.00478155,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00381,
-        "PriceInLocalCurrencyIncludingVAT": 0.00478155,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T21:00:00Z",
-        "PriceInEUR": 0.00481,
-        "PriceInEURIncludingVAT": 0.00603655,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00481,
-        "PriceInLocalCurrencyIncludingVAT": 0.00603655,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T22:00:00Z",
-        "PriceInEUR": 0.005030000000000001,
-        "PriceInEURIncludingVAT": 0.00631265,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.005030000000000001,
-        "PriceInLocalCurrencyIncludingVAT": 0.00631265,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-22T23:00:00Z",
-        "PriceInEUR": 0.00601,
-        "PriceInEURIncludingVAT": 0.007542549999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00601,
-        "PriceInLocalCurrencyIncludingVAT": 0.007542549999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T00:00:00Z",
-        "PriceInEUR": 0.0049900000000000005,
-        "PriceInEURIncludingVAT": 0.00626245,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0049900000000000005,
-        "PriceInLocalCurrencyIncludingVAT": 0.00626245,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T01:00:00Z",
-        "PriceInEUR": 0.0054,
-        "PriceInEURIncludingVAT": 0.006777,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0054,
-        "PriceInLocalCurrencyIncludingVAT": 0.006777,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T02:00:00Z",
-        "PriceInEUR": 0.0065,
-        "PriceInEURIncludingVAT": 0.008157499999999998,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0065,
-        "PriceInLocalCurrencyIncludingVAT": 0.008157499999999998,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T03:00:00Z",
-        "PriceInEUR": 0.008,
-        "PriceInEURIncludingVAT": 0.010039999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.008,
-        "PriceInLocalCurrencyIncludingVAT": 0.010039999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T04:00:00Z",
-        "PriceInEUR": 0.00738,
-        "PriceInEURIncludingVAT": 0.0092619,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00738,
-        "PriceInLocalCurrencyIncludingVAT": 0.0092619,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T05:00:00Z",
-        "PriceInEUR": 0.00827,
-        "PriceInEURIncludingVAT": 0.010378849999999998,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00827,
-        "PriceInLocalCurrencyIncludingVAT": 0.010378849999999998,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T06:00:00Z",
-        "PriceInEUR": 0.008919999999999999,
-        "PriceInEURIncludingVAT": 0.011194599999999997,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.008919999999999999,
-        "PriceInLocalCurrencyIncludingVAT": 0.011194599999999997,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T07:00:00Z",
-        "PriceInEUR": 0.00811,
-        "PriceInEURIncludingVAT": 0.010178049999999998,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00811,
-        "PriceInLocalCurrencyIncludingVAT": 0.010178049999999998,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T08:00:00Z",
-        "PriceInEUR": 0.007719999999999999,
-        "PriceInEURIncludingVAT": 0.009688599999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.007719999999999999,
-        "PriceInLocalCurrencyIncludingVAT": 0.009688599999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T09:00:00Z",
-        "PriceInEUR": 0.00704,
-        "PriceInEURIncludingVAT": 0.0088352,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00704,
-        "PriceInLocalCurrencyIncludingVAT": 0.0088352,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T10:00:00Z",
-        "PriceInEUR": 0.00634,
-        "PriceInEURIncludingVAT": 0.007956699999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00634,
-        "PriceInLocalCurrencyIncludingVAT": 0.007956699999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T11:00:00Z",
-        "PriceInEUR": 0.00711,
-        "PriceInEURIncludingVAT": 0.00892305,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00711,
-        "PriceInLocalCurrencyIncludingVAT": 0.00892305,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T12:00:00Z",
-        "PriceInEUR": 0.00726,
-        "PriceInEURIncludingVAT": 0.0091113,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00726,
-        "PriceInLocalCurrencyIncludingVAT": 0.0091113,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T13:00:00Z",
-        "PriceInEUR": 0.00697,
-        "PriceInEURIncludingVAT": 0.00874735,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00697,
-        "PriceInLocalCurrencyIncludingVAT": 0.00874735,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T14:00:00Z",
-        "PriceInEUR": 0.0061200000000000004,
-        "PriceInEURIncludingVAT": 0.0076806,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.0061200000000000004,
-        "PriceInLocalCurrencyIncludingVAT": 0.0076806,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T15:00:00Z",
-        "PriceInEUR": 0.00604,
-        "PriceInEURIncludingVAT": 0.0075802,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00604,
-        "PriceInLocalCurrencyIncludingVAT": 0.0075802,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T16:00:00Z",
-        "PriceInEUR": 0.005,
-        "PriceInEURIncludingVAT": 0.006274999999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.005,
-        "PriceInLocalCurrencyIncludingVAT": 0.006274999999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T17:00:00Z",
-        "PriceInEUR": 0.00433,
-        "PriceInEURIncludingVAT": 0.005434149999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00433,
-        "PriceInLocalCurrencyIncludingVAT": 0.005434149999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T18:00:00Z",
-        "PriceInEUR": 0.00435,
-        "PriceInEURIncludingVAT": 0.005459249999999999,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00435,
-        "PriceInLocalCurrencyIncludingVAT": 0.005459249999999999,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T19:00:00Z",
-        "PriceInEUR": 0.00385,
-        "PriceInEURIncludingVAT": 0.00483175,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00385,
-        "PriceInLocalCurrencyIncludingVAT": 0.00483175,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T20:00:00Z",
-        "PriceInEUR": 0.00412,
-        "PriceInEURIncludingVAT": 0.0051706,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00412,
-        "PriceInLocalCurrencyIncludingVAT": 0.0051706,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T21:00:00Z",
-        "PriceInEUR": 0.00363,
-        "PriceInEURIncludingVAT": 0.00455565,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00363,
-        "PriceInLocalCurrencyIncludingVAT": 0.00455565,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
-        "DateTime": "2026-06-23T22:00:00Z",
-        "PriceInEUR": 0.00307,
-        "PriceInEURIncludingVAT": 0.0038528499999999992,
-        "VATRate": 0.255,
-        "PriceInLocalCurrency": 0.00307,
-        "PriceInLocalCurrencyIncludingVAT": 0.0038528499999999992,
-        "ExchangeRate": 1,
-        "Currency": "EUR"
-    },
-    {
         "DateTime": "2026-06-21T22:00:00Z",
         "PriceInEUR": 0.00359,
         "PriceInEURIncludingVAT": 0.004505449999999999,
@@ -1546,6 +816,866 @@
         "VATRate": 0.255,
         "PriceInLocalCurrency": 0.00496,
         "PriceInLocalCurrencyIncludingVAT": 0.006224799999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-22T22:00:00Z",
+        "PriceInEUR": 0.00204,
+        "PriceInEURIncludingVAT": 0.0025602,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00204,
+        "PriceInLocalCurrencyIncludingVAT": 0.0025602,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-22T23:00:00Z",
+        "PriceInEUR": 0.002,
+        "PriceInEURIncludingVAT": 0.0025099999999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.002,
+        "PriceInLocalCurrencyIncludingVAT": 0.0025099999999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T00:00:00Z",
+        "PriceInEUR": 0.00199,
+        "PriceInEURIncludingVAT": 0.00249745,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00199,
+        "PriceInLocalCurrencyIncludingVAT": 0.00249745,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T01:00:00Z",
+        "PriceInEUR": 0.002,
+        "PriceInEURIncludingVAT": 0.0025099999999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.002,
+        "PriceInLocalCurrencyIncludingVAT": 0.0025099999999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T02:00:00Z",
+        "PriceInEUR": 0.00199,
+        "PriceInEURIncludingVAT": 0.00249745,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00199,
+        "PriceInLocalCurrencyIncludingVAT": 0.00249745,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T03:00:00Z",
+        "PriceInEUR": 0.002,
+        "PriceInEURIncludingVAT": 0.0025099999999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.002,
+        "PriceInLocalCurrencyIncludingVAT": 0.0025099999999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T04:00:00Z",
+        "PriceInEUR": 0.00302,
+        "PriceInEURIncludingVAT": 0.0037901,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00302,
+        "PriceInLocalCurrencyIncludingVAT": 0.0037901,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T05:00:00Z",
+        "PriceInEUR": 0.00404,
+        "PriceInEURIncludingVAT": 0.0050701999999999995,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00404,
+        "PriceInLocalCurrencyIncludingVAT": 0.0050701999999999995,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T06:00:00Z",
+        "PriceInEUR": 0.00496,
+        "PriceInEURIncludingVAT": 0.006224799999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00496,
+        "PriceInLocalCurrencyIncludingVAT": 0.006224799999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T07:00:00Z",
+        "PriceInEUR": 0.00827,
+        "PriceInEURIncludingVAT": 0.010378849999999998,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.00827,
+        "PriceInLocalCurrencyIncludingVAT": 0.010378849999999998,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T08:00:00Z",
+        "PriceInEUR": 0.0177,
+        "PriceInEURIncludingVAT": 0.022213499999999997,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0177,
+        "PriceInLocalCurrencyIncludingVAT": 0.022213499999999997,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T09:00:00Z",
+        "PriceInEUR": 0.02456,
+        "PriceInEURIncludingVAT": 0.030822799999999994,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02456,
+        "PriceInLocalCurrencyIncludingVAT": 0.030822799999999994,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T10:00:00Z",
+        "PriceInEUR": 0.01688,
+        "PriceInEURIncludingVAT": 0.021184399999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.01688,
+        "PriceInLocalCurrencyIncludingVAT": 0.021184399999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T11:00:00Z",
+        "PriceInEUR": 0.020989999999999998,
+        "PriceInEURIncludingVAT": 0.026342449999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.020989999999999998,
+        "PriceInLocalCurrencyIncludingVAT": 0.026342449999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T12:00:00Z",
+        "PriceInEUR": 0.036789999999999996,
+        "PriceInEURIncludingVAT": 0.04617144999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.036789999999999996,
+        "PriceInLocalCurrencyIncludingVAT": 0.04617144999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T13:00:00Z",
+        "PriceInEUR": 0.04218,
+        "PriceInEURIncludingVAT": 0.0529359,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.04218,
+        "PriceInLocalCurrencyIncludingVAT": 0.0529359,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T14:00:00Z",
+        "PriceInEUR": 0.03138,
+        "PriceInEURIncludingVAT": 0.0393819,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03138,
+        "PriceInLocalCurrencyIncludingVAT": 0.0393819,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T15:00:00Z",
+        "PriceInEUR": 0.030109999999999998,
+        "PriceInEURIncludingVAT": 0.03778805,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.030109999999999998,
+        "PriceInLocalCurrencyIncludingVAT": 0.03778805,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T16:00:00Z",
+        "PriceInEUR": 0.034570000000000004,
+        "PriceInEURIncludingVAT": 0.04338535,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.034570000000000004,
+        "PriceInLocalCurrencyIncludingVAT": 0.04338535,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T17:00:00Z",
+        "PriceInEUR": 0.0456,
+        "PriceInEURIncludingVAT": 0.057227999999999994,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0456,
+        "PriceInLocalCurrencyIncludingVAT": 0.057227999999999994,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T18:00:00Z",
+        "PriceInEUR": 0.03703,
+        "PriceInEURIncludingVAT": 0.04647265,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03703,
+        "PriceInLocalCurrencyIncludingVAT": 0.04647265,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T19:00:00Z",
+        "PriceInEUR": 0.03545,
+        "PriceInEURIncludingVAT": 0.04448975,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03545,
+        "PriceInLocalCurrencyIncludingVAT": 0.04448975,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T20:00:00Z",
+        "PriceInEUR": 0.038700000000000005,
+        "PriceInEURIncludingVAT": 0.0485685,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.038700000000000005,
+        "PriceInLocalCurrencyIncludingVAT": 0.0485685,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T21:00:00Z",
+        "PriceInEUR": 0.04747,
+        "PriceInEURIncludingVAT": 0.05957484999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.04747,
+        "PriceInLocalCurrencyIncludingVAT": 0.05957484999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T22:00:00Z",
+        "PriceInEUR": 0.04263,
+        "PriceInEURIncludingVAT": 0.05350065,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.04263,
+        "PriceInLocalCurrencyIncludingVAT": 0.05350065,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-23T23:00:00Z",
+        "PriceInEUR": 0.03432,
+        "PriceInEURIncludingVAT": 0.0430716,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03432,
+        "PriceInLocalCurrencyIncludingVAT": 0.0430716,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T00:00:00Z",
+        "PriceInEUR": 0.032920000000000005,
+        "PriceInEURIncludingVAT": 0.0413146,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.032920000000000005,
+        "PriceInLocalCurrencyIncludingVAT": 0.0413146,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T01:00:00Z",
+        "PriceInEUR": 0.02899,
+        "PriceInEURIncludingVAT": 0.03638245,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02899,
+        "PriceInLocalCurrencyIncludingVAT": 0.03638245,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T02:00:00Z",
+        "PriceInEUR": 0.04137,
+        "PriceInEURIncludingVAT": 0.05191934999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.04137,
+        "PriceInLocalCurrencyIncludingVAT": 0.05191934999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T03:00:00Z",
+        "PriceInEUR": 0.03434,
+        "PriceInEURIncludingVAT": 0.0430967,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03434,
+        "PriceInLocalCurrencyIncludingVAT": 0.0430967,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T04:00:00Z",
+        "PriceInEUR": 0.02914,
+        "PriceInEURIncludingVAT": 0.0365707,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02914,
+        "PriceInLocalCurrencyIncludingVAT": 0.0365707,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T05:00:00Z",
+        "PriceInEUR": 0.02499,
+        "PriceInEURIncludingVAT": 0.03136244999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02499,
+        "PriceInLocalCurrencyIncludingVAT": 0.03136244999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T06:00:00Z",
+        "PriceInEUR": 0.03319,
+        "PriceInEURIncludingVAT": 0.041653449999999995,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03319,
+        "PriceInLocalCurrencyIncludingVAT": 0.041653449999999995,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T07:00:00Z",
+        "PriceInEUR": 0.03022,
+        "PriceInEURIncludingVAT": 0.0379261,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03022,
+        "PriceInLocalCurrencyIncludingVAT": 0.0379261,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T08:00:00Z",
+        "PriceInEUR": 0.0293,
+        "PriceInEURIncludingVAT": 0.0367715,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0293,
+        "PriceInLocalCurrencyIncludingVAT": 0.0367715,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T09:00:00Z",
+        "PriceInEUR": 0.02634,
+        "PriceInEURIncludingVAT": 0.033056699999999994,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02634,
+        "PriceInLocalCurrencyIncludingVAT": 0.033056699999999994,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T10:00:00Z",
+        "PriceInEUR": 0.02866,
+        "PriceInEURIncludingVAT": 0.0359683,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02866,
+        "PriceInLocalCurrencyIncludingVAT": 0.0359683,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T11:00:00Z",
+        "PriceInEUR": 0.031010000000000003,
+        "PriceInEURIncludingVAT": 0.03891755,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.031010000000000003,
+        "PriceInLocalCurrencyIncludingVAT": 0.03891755,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T12:00:00Z",
+        "PriceInEUR": 0.03053,
+        "PriceInEURIncludingVAT": 0.03831515,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03053,
+        "PriceInLocalCurrencyIncludingVAT": 0.03831515,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T13:00:00Z",
+        "PriceInEUR": 0.03098,
+        "PriceInEURIncludingVAT": 0.038879899999999995,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03098,
+        "PriceInLocalCurrencyIncludingVAT": 0.038879899999999995,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T14:00:00Z",
+        "PriceInEUR": 0.030010000000000002,
+        "PriceInEURIncludingVAT": 0.037662549999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.030010000000000002,
+        "PriceInLocalCurrencyIncludingVAT": 0.037662549999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T15:00:00Z",
+        "PriceInEUR": 0.03008,
+        "PriceInEURIncludingVAT": 0.037750399999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03008,
+        "PriceInLocalCurrencyIncludingVAT": 0.037750399999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T16:00:00Z",
+        "PriceInEUR": 0.030010000000000002,
+        "PriceInEURIncludingVAT": 0.037662549999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.030010000000000002,
+        "PriceInLocalCurrencyIncludingVAT": 0.037662549999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T17:00:00Z",
+        "PriceInEUR": 0.03,
+        "PriceInEURIncludingVAT": 0.037649999999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03,
+        "PriceInLocalCurrencyIncludingVAT": 0.037649999999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T18:00:00Z",
+        "PriceInEUR": 0.02999,
+        "PriceInEURIncludingVAT": 0.037637449999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02999,
+        "PriceInLocalCurrencyIncludingVAT": 0.037637449999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T19:00:00Z",
+        "PriceInEUR": 0.03,
+        "PriceInEURIncludingVAT": 0.037649999999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03,
+        "PriceInLocalCurrencyIncludingVAT": 0.037649999999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T20:00:00Z",
+        "PriceInEUR": 0.02971,
+        "PriceInEURIncludingVAT": 0.037286049999999994,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02971,
+        "PriceInLocalCurrencyIncludingVAT": 0.037286049999999994,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T21:00:00Z",
+        "PriceInEUR": 0.0299,
+        "PriceInEURIncludingVAT": 0.037524499999999995,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0299,
+        "PriceInLocalCurrencyIncludingVAT": 0.037524499999999995,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T22:00:00Z",
+        "PriceInEUR": 0.030010000000000002,
+        "PriceInEURIncludingVAT": 0.037662549999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.030010000000000002,
+        "PriceInLocalCurrencyIncludingVAT": 0.037662549999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-24T23:00:00Z",
+        "PriceInEUR": 0.03,
+        "PriceInEURIncludingVAT": 0.037649999999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03,
+        "PriceInLocalCurrencyIncludingVAT": 0.037649999999999996,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T00:00:00Z",
+        "PriceInEUR": 0.031239999999999997,
+        "PriceInEURIncludingVAT": 0.03920619999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.031239999999999997,
+        "PriceInLocalCurrencyIncludingVAT": 0.03920619999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T01:00:00Z",
+        "PriceInEUR": 0.0316,
+        "PriceInEURIncludingVAT": 0.039658,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0316,
+        "PriceInLocalCurrencyIncludingVAT": 0.039658,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T02:00:00Z",
+        "PriceInEUR": 0.03221,
+        "PriceInEURIncludingVAT": 0.04042355,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03221,
+        "PriceInLocalCurrencyIncludingVAT": 0.04042355,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T03:00:00Z",
+        "PriceInEUR": 0.028390000000000002,
+        "PriceInEURIncludingVAT": 0.03562945,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.028390000000000002,
+        "PriceInLocalCurrencyIncludingVAT": 0.03562945,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T04:00:00Z",
+        "PriceInEUR": 0.03311,
+        "PriceInEURIncludingVAT": 0.041553049999999994,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03311,
+        "PriceInLocalCurrencyIncludingVAT": 0.041553049999999994,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T05:00:00Z",
+        "PriceInEUR": 0.02499,
+        "PriceInEURIncludingVAT": 0.03136244999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.02499,
+        "PriceInLocalCurrencyIncludingVAT": 0.03136244999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T06:00:00Z",
+        "PriceInEUR": 0.03155,
+        "PriceInEURIncludingVAT": 0.03959525,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03155,
+        "PriceInLocalCurrencyIncludingVAT": 0.03959525,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T07:00:00Z",
+        "PriceInEUR": 0.036469999999999995,
+        "PriceInEURIncludingVAT": 0.045769849999999994,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.036469999999999995,
+        "PriceInLocalCurrencyIncludingVAT": 0.045769849999999994,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T08:00:00Z",
+        "PriceInEUR": 0.05218,
+        "PriceInEURIncludingVAT": 0.06548589999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.05218,
+        "PriceInLocalCurrencyIncludingVAT": 0.06548589999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T09:00:00Z",
+        "PriceInEUR": 0.037469999999999996,
+        "PriceInEURIncludingVAT": 0.04702484999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.037469999999999996,
+        "PriceInLocalCurrencyIncludingVAT": 0.04702484999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T10:00:00Z",
+        "PriceInEUR": 0.03977,
+        "PriceInEURIncludingVAT": 0.04991134999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.03977,
+        "PriceInLocalCurrencyIncludingVAT": 0.04991134999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T11:00:00Z",
+        "PriceInEUR": 0.04911,
+        "PriceInEURIncludingVAT": 0.061633049999999995,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.04911,
+        "PriceInLocalCurrencyIncludingVAT": 0.061633049999999995,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T12:00:00Z",
+        "PriceInEUR": 0.06394,
+        "PriceInEURIncludingVAT": 0.08024469999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06394,
+        "PriceInLocalCurrencyIncludingVAT": 0.08024469999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T13:00:00Z",
+        "PriceInEUR": 0.07920999999999999,
+        "PriceInEURIncludingVAT": 0.09940854999999997,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07920999999999999,
+        "PriceInLocalCurrencyIncludingVAT": 0.09940854999999997,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T14:00:00Z",
+        "PriceInEUR": 0.08739,
+        "PriceInEURIncludingVAT": 0.10967444999999998,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.08739,
+        "PriceInLocalCurrencyIncludingVAT": 0.10967444999999998,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T15:00:00Z",
+        "PriceInEUR": 0.061369999999999994,
+        "PriceInEURIncludingVAT": 0.07701934999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.061369999999999994,
+        "PriceInLocalCurrencyIncludingVAT": 0.07701934999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T16:00:00Z",
+        "PriceInEUR": 0.07303,
+        "PriceInEURIncludingVAT": 0.09165264999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07303,
+        "PriceInLocalCurrencyIncludingVAT": 0.09165264999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T17:00:00Z",
+        "PriceInEUR": 0.06228,
+        "PriceInEURIncludingVAT": 0.07816139999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06228,
+        "PriceInLocalCurrencyIncludingVAT": 0.07816139999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T18:00:00Z",
+        "PriceInEUR": 0.06942,
+        "PriceInEURIncludingVAT": 0.0871221,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06942,
+        "PriceInLocalCurrencyIncludingVAT": 0.0871221,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T19:00:00Z",
+        "PriceInEUR": 0.07348,
+        "PriceInEURIncludingVAT": 0.09221739999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07348,
+        "PriceInLocalCurrencyIncludingVAT": 0.09221739999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T20:00:00Z",
+        "PriceInEUR": 0.07076,
+        "PriceInEURIncludingVAT": 0.0888038,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07076,
+        "PriceInLocalCurrencyIncludingVAT": 0.0888038,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T21:00:00Z",
+        "PriceInEUR": 0.0694,
+        "PriceInEURIncludingVAT": 0.087097,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0694,
+        "PriceInLocalCurrencyIncludingVAT": 0.087097,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T22:00:00Z",
+        "PriceInEUR": 0.06942,
+        "PriceInEURIncludingVAT": 0.0871221,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06942,
+        "PriceInLocalCurrencyIncludingVAT": 0.0871221,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-25T23:00:00Z",
+        "PriceInEUR": 0.06941,
+        "PriceInEURIncludingVAT": 0.08710955,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06941,
+        "PriceInLocalCurrencyIncludingVAT": 0.08710955,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T00:00:00Z",
+        "PriceInEUR": 0.07911,
+        "PriceInEURIncludingVAT": 0.09928305,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07911,
+        "PriceInLocalCurrencyIncludingVAT": 0.09928305,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T01:00:00Z",
+        "PriceInEUR": 0.07909999999999999,
+        "PriceInEURIncludingVAT": 0.09927049999999998,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07909999999999999,
+        "PriceInLocalCurrencyIncludingVAT": 0.09927049999999998,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T02:00:00Z",
+        "PriceInEUR": 0.07518999999999999,
+        "PriceInEURIncludingVAT": 0.09436344999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07518999999999999,
+        "PriceInLocalCurrencyIncludingVAT": 0.09436344999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T03:00:00Z",
+        "PriceInEUR": 0.06941,
+        "PriceInEURIncludingVAT": 0.08710955,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06941,
+        "PriceInLocalCurrencyIncludingVAT": 0.08710955,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T04:00:00Z",
+        "PriceInEUR": 0.07904000000000001,
+        "PriceInEURIncludingVAT": 0.09919520000000001,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07904000000000001,
+        "PriceInLocalCurrencyIncludingVAT": 0.09919520000000001,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T05:00:00Z",
+        "PriceInEUR": 0.07273,
+        "PriceInEURIncludingVAT": 0.09127615,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.07273,
+        "PriceInLocalCurrencyIncludingVAT": 0.09127615,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T06:00:00Z",
+        "PriceInEUR": 0.06331,
+        "PriceInEURIncludingVAT": 0.07945405,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.06331,
+        "PriceInLocalCurrencyIncludingVAT": 0.07945405,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T07:00:00Z",
+        "PriceInEUR": 0.055170000000000004,
+        "PriceInEURIncludingVAT": 0.06923835,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.055170000000000004,
+        "PriceInLocalCurrencyIncludingVAT": 0.06923835,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T08:00:00Z",
+        "PriceInEUR": 0.05903,
+        "PriceInEURIncludingVAT": 0.07408264999999999,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.05903,
+        "PriceInLocalCurrencyIncludingVAT": 0.07408264999999999,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T09:00:00Z",
+        "PriceInEUR": 0.052520000000000004,
+        "PriceInEURIncludingVAT": 0.0659126,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.052520000000000004,
+        "PriceInLocalCurrencyIncludingVAT": 0.0659126,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T10:00:00Z",
+        "PriceInEUR": 0.04868,
+        "PriceInEURIncludingVAT": 0.0610934,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.04868,
+        "PriceInLocalCurrencyIncludingVAT": 0.0610934,
+        "ExchangeRate": 1,
+        "Currency": "EUR"
+    },
+    {
+        "DateTime": "2026-06-26T11:00:00Z",
+        "PriceInEUR": 0.0437,
+        "PriceInEURIncludingVAT": 0.054843499999999996,
+        "VATRate": 0.255,
+        "PriceInLocalCurrency": 0.0437,
+        "PriceInLocalCurrencyIncludingVAT": 0.054843499999999996,
         "ExchangeRate": 1,
         "Currency": "EUR"
     }
